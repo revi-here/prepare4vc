@@ -9,19 +9,17 @@ This project is geared towards analyzing Prepare 4 VC's community (network) and 
 ![Prepare4VC](images/prepare4vc.jpg 'Prepare4VC')   
 
 
-Goals
+# Goals
 1.Visualization of categories to showcase potential members the makeup of current members of the community.
 2.Analyze where the members are coming from , visualization using a map, heatmap, etc. of where the membership is.
   
 *** 
-
 ## Resources
-1.Data Source   
-2.Data analysis : Pandas, Numpy
-3.Matplotlib,Pyplot,Seaborn
-  
+1.Data Source  : Company real time data 
+2.Data analysis : Pandas, Numpy  
+3.Matplotlib,Pyplot,Seaborn  
 ***
-## Exploratory Data Analysis.  
+# Exploratory Data Analysis.  
 
 ## 1.Visualization of categories to showcase potential members the makeup of current members of the community.  
  
@@ -74,15 +72,8 @@ We don’t see any significant difference with members who were referred irrespe
 </table>
 
 # Final Conclusion.   
-From all the above points we see that we need to get some changes with IOS as IOS retention is lesser compared  
-to Android and also conversion rate from free to paid user is way less..Users are not in free trial for required time period..  
-So we need to either change the plan for free trial or add some interesting features to attract user to stay for the full time  
-and proceed with paid subscription..'app.norbu.premium' can be given with some extra features in the range (15-20$)for Android  
-users as more users prefer this price range...These changes will improve the retention rate and conversion rate ..
-
- # Presentation.  
- [Presentation](https://docs.google.com/presentation/d/1kP_OW7dlzC85_vj1VnEM1rtyPvFN04u-/edit?usp=sharing&ouid=113662054605653502082&rtpof=true&sd=true)
-
-
-
+* Referred members don’t bring in any significant improvement.
+* New members joining is in its lowest(10 - 20) since Apr2022.
+* Members who are less active (0-4 months) is higher since Jun2022.
+* Members from Asian(except India) and European communities which have high startup community are very low .
 
