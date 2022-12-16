@@ -56,12 +56,20 @@ We don’t see any significant difference with members who were referred irrespe
 ### Members across the world  
 <table>
 <tr>
-<td><img src="images/world.png" alt='World wide membership' width = 500px height = 500px> </td>
-<td>![Country wide membership](images/country.png 'Country wide membership') </td>
+<td><img src="images/world.png" alt='World wide membership' width = 500px height = 400px> </td>
+<td><img src="images/country.png" alt='Country wide membership' width = 500px height = 400px> </td>
 </tr>
 <tr>
-<td>![USA membership](images/usa.png 'USA membership') </td>
-<td>![USA - statewise membership](images/usa_states.png 'USA - statewise membership') </td>
+<td><img src="images/usa.png" alt='USA membership' width = 500px height = 400px></td>
+<td><img src="images/usa_states.png" alt='USA - state wide membership' width = 500px height = 400px> </td>
+</tr>
+<tr>
+<td><img src="images/india.png" alt='India - state wide membership' width = 500px height = 400px></td>
+<td><img src="images/canada.png" alt='Canada - state wide membership' width = 500px height = 400px> </td>
+</tr>
+ <tr>
+<td><img src="images/member_category_regions.png" alt='Member category across different regions' width = 500px height = 400px></td>
+<td><img src="images/program_regions.png" alt='Program membership across different regions' width = 500px height = 400px> </td>
 </tr>
 </table>
 
