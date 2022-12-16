@@ -10,37 +10,38 @@ This project is geared towards analyzing Prepare 4 VC's community (network) and 
 
 
 # Goals
-1.Visualization of categories to showcase potential members the makeup of current members of the community.
+1.Visualization of categories to showcase potential members the makeup of current members of the community.  
 2.Analyze where the members are coming from , visualization using a map, heatmap, etc. of where the membership is.
   
 *** 
-## Resources
-1.Data Source  : Company real time data 
-2.Data analysis : Pandas, Numpy  
-3.Matplotlib,Pyplot,Seaborn  
+## Resources  
+1.Data Source  : Company real time data   
+2.Data analysis : Pandas, Numpy   
+3.Matplotlib,Pyplot,Seaborn   
+  
 ***
 # Exploratory Data Analysis.  
 
 ## 1.Visualization of categories to showcase potential members the makeup of current members of the community.  
  
-<b>New members joining each month.  
+<b>New members joining each month.    
 ![New members](images/joindate.png 'New members')  
 <b>Members leaving the community  
 ![Members left](images/lastvisittime.png 'Members left')  
 ***Conclusion***  
-Around 55-60% of the members don’t visit back after their first month.
-Aug2021 has significantly lower number (28%) which is noteworthy.
-We also see that there is continuous access till 12 months for the same cohort members.
-80% members of Jun2021 cohort didn’t return yet back for the past 6months.
-None of the members who joined in Sep2021 returned back in October. 
-Few members of Oct2020 cohort are seen after 20+months that comprises of members in host,moderator role
+- Around 55-60% of the members don’t visit back after their first month.  
+- Aug2021 has significantly lower number (28%) which is noteworthy.
+- We also see that there is continuous access till 12 months for the same cohort members.
+- 80% members of Jun2021 cohort didn’t return yet back for the past 6months.
+- None of the members who joined in Sep2021 returned back in October. 
+- Few members of Oct2020 cohort are seen after 20+months that comprises of members in host,moderator role
 
 ## Effectiveness of referral program  
 ### Active months  
 ![Active months](images/active.png 'Active months')   
-Members in general are active for 2.5 to 3 months on an average.
-Average inactive period is more (13 months) compared to active one.
-Referred members show more inactive months comparitively
+- Members in general are active for 2.5 to 3 months on an average.
+- Average inactive period is more (13 months) compared to active one.
+- Referred members show more inactive months comparitively
 
 ### Program Memberships
 ![Program Memberships](images/program_compare.png 'Program Memberships')  
