@@ -17,7 +17,7 @@ This project is geared towards analyzing Prepare 4 VC's community (network) and 
 ## Resources  
 1.Data Source  : Company real time data   
 2.Data analysis : Pandas, Numpy   
-3.Matplotlib,Pyplot,Seaborn   
+3.Visualisation : Tableau, Matplotlib, Pyplot, Seaborn   
   
 ***
 # Exploratory Data Analysis.  
