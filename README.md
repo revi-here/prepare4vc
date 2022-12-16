@@ -45,10 +45,10 @@ Average inactive period is more (13 months) compared to active one.
 Referred members show more inactive months comparitively
 
 ### Program Memberships
-![Program Memberships](images/program.png 'Program Memberships')  
+![Program Memberships](images/program_compare.png 'Program Memberships')  
 
 ### Group Memberships
-![Group Memberships](images/groups.png 'Group Memberships')  
+![Group Memberships](images/groups_compare.png 'Group Memberships')  
 We don’t see any significant difference with members who were referred irrespective of whatever area you look into - program, groups, join date, active months.  
 
 ## 2.Analyze where the members are coming from , visualization using a map, heatmap, etc. of where the membership is.  
