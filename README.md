@@ -68,7 +68,7 @@ We don’t see any significant difference with members who were referred irrespe
 <td><img src="images/canada.png" alt='Canada - state wide membership' width = 500px height = 400px> </td>
 </tr>
  <tr>
-<td><img src="images/member_category_regions.png" alt='Member category across different regions' width = 500px height = 400px></td>
+<td><img src="images/membercategory_regions.png" alt='Member category across different regions' width = 500px height = 400px></td>
 <td><img src="images/program_regions.png" alt='Program membership across different regions' width = 500px height = 400px> </td>
 </tr>
 </table>
