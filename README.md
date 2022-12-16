@@ -55,9 +55,8 @@ We don’t see any significant difference with members who were referred irrespe
 
 ### Members across the world  
 <table>
-<th>
 <tr>
-<td>![World wide membership](images/world.png 'World wide membership') </td>
+<td><img src="world.png" alt='World wide membership'> ) </td>
 <td>![Country wide membership](images/country.png 'Country wide membership') </td>
 </tr>
 <tr>
